@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="widt=device-widt, initial-initial scale=1.0">
+    <!-- menghubungkan CSS eksternal -->
+    <link rel="stylesheet" href="style_eksternal.css">
+    <title>CSS Dasar</title> 
+
+
+    <!-- CSS Internal -->
+    <style>
+        body {
+            font-family: 'Open sans', sans-serif;
+        }
+
+        header {
+            min-height: 80px;
+            border-bottom: 1px solid  #77CCEF;
+        }
+
+        h1 {
+            font-size: 24px;
+            color: #0f189f;
+            text-align: center;
+            padding: 20px 10px;
+        }
+
+        h1 i {
+            color: #6d6a6b;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>CSS Internal dan <i>Inline CSS</i></h1>
+        <header/>
+        <nav>
+            <a href="praktikum2_css_dasar.html">CSS Dasar</a>
+            <a href="praktikum2_css_dasar.hmtl">CSS Dasar</a>
+            <a href="../Praktikum2/praktikum2_css_dasar.html">HTML Dasar</a>
+        </nav>
+
+        <!-- CSS Selector -->
+        <div id="intro">
+            <h1>Hello Word</h1>
+            <p style="text-align: center; color: #ccd8e4;">Kami sedang belajar HTML dan CSS dasar, pada mata kuliah <b>Pemograman Web</b> di <i> Universitas Pelita Bangsa </i>.Pelajaran pertama yang kami dapat adalah membuat tampilan web sederhana dalam rangka mengenal tag-tag dasar HTML dan CSS.</p>
+
+            <!-- CSS Clas Selector -->
+            <div class="kontak">
+                <a href="#intro" class="btn-primary">Informasi Selengkapnya</a>
+                <a href="#" class="nama">whatsapp me</a>
+                <a href="#" class="nama">instagram</a>
+            </div>
+        </div>
+        
+</body>
+</html>
