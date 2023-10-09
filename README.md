@@ -76,7 +76,7 @@ Yang saya lakukan disini menambahkan hayperlink pada dokumen HTML saya lalu mena
 ```
 ![gambar-14][def-14]
 
-[def-14]: /image/ss14.jpg
+[def-14]: /image/ss13.jpg
 
 2. Apa perbedaan pendeklarasian CSS elemen `h1 {...}` dengan `#intro h1 {...}`? berikan penjelasannya!
 ```
