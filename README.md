@@ -52,22 +52,22 @@ Selanjutnya membuat `CSS Eksternal`, buat file baru terlebih dahulu dengan nama 
 Tambahkan tag `<link>` pada bagian `head` untuk menghubungkan `style_eksternal.css` yang sudah dibuat tadi.
 ![gambar-10][def-10]
 
-[def-10]: /image/ss10.jpg
+[def-10]: /image/ss14.jpg
 
 Lalu save kembali ke browser refresh maka hasilnya seperti ini.
 ![gambar-11][def-11]
 
-[def-11]: /image/ss11.jpg
+[def-11]: /image/ss10.jpg
 
 Selanjutnya menambahkan `CSS Selector` menggunakan `ID` dan `class selector` pada file `style_eksternal.css`
 ![gambar-12][def-12]
 
-[def-12]: /image/ss12.jpg
+[def-12]: /image/ss11.jpg
 
 Lalu save lagi dan kembali ke browser dan refresh.
 ![gambar-13][def-13]
 
-[def-13]: /image/ss13.jpg
+[def-13]: /image/ss12.jpg
 
 ## Pertanyaan dan Tugas
 1. Lakukan eksperimen dengan mengubah dan menambah properti dan nilai pada kode CSS dengan mengacu pada CSS Cheat Sheet yang diberikan pada file terpisah dari modul ini.
